@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "ignored": "true",
+      "type": "mssql"
+    },
+    "sqlite": {
+      "ignored": "true",
+      "type": "sqlite",
+      "connectionId": "ConnectionStrings:DefaultConnection"
+    }
+  }
+}
