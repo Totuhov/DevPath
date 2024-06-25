@@ -18,7 +18,16 @@ namespace DevPath.Web.Controllers
             return View();
         }
 
+        public IActionResult Documentation()
+        {
+            return View();
+        }
+
         public IActionResult Privacy()
+        {
+            return View();
+        }
+        public IActionResult Development()
         {
             return View();
         }
